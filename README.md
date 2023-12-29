@@ -4,6 +4,6 @@
 
 ### Datasets
 
-<img src='./images/设备.jpg' style="zoom: 1%">
+<img src='./images/设备.jpg' width="400" height="300">
 
 将纽创信安设备上采集到的`10W`条原始能量(这里我们仅举`2k`条作为例子)迹作为数据集,数据集格式如下:
